@@ -6,8 +6,8 @@ public class RotationController : MonoBehaviour
 {
     public Vector3 rotationVector;
 
-    private void Update
+    private void Update()
     {
-        transform.Rotate(rotationVector* Time.deltaTime)
+        transform.Rotate(rotationVector * Time.deltaTime);
     }
 }
