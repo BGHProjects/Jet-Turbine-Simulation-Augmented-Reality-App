@@ -18,6 +18,8 @@
 
 ## Video Example
 
+[![Gameplay](https://img.youtube.com/vi/NvkxBmLXRP4/0.jpg)](https://youtu.be/NvkxBmLXRP4 "Gameplay")
+
 ## Screenshots
 
 ### Default View 1
